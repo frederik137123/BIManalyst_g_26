@@ -1,10 +1,10 @@
 # BIManalyst group 26
 
 ## Focus area:
-Beams
+Longest spanding beam in model. 
 
 ## Claim by code
-Check the dimensions of beams spanding between columns. 
+The biggest beam span is 11 meters throughout the model. 
 
 ## The report and page number or section that you found the claim in:
 Report = CES_BLD_24_06_STR
