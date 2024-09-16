@@ -1,13 +1,17 @@
 # BIManalyst group 26
 
-Focus area:
-Foundations
+## Focus area:
+Beams
 
-Claim by code:
-Area of foundation-walls. The claim in the reports is that...
+## Claim by code
+Check the dimensions of beams spanding between columns. 
 
-4. The report and page number or section that you found the claim in:
+## The report and page number or section that you found the claim in:
+Report = CES_BLD_24_06_STR
+Claim page number = 6 under "Static System"
+Claim = "The biggest span of a slab is 7 meters while the longest spanning beam is 11 meters, while most beams span 6-8 meters"
 
-5. Description of your script
+## Description of your script
+
 
 
