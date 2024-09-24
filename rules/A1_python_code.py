@@ -2,7 +2,7 @@
 import ifcopenshell
 
 # Open the IFC model
-# model = ifcopenshell.open('C:/Users/friis/OneDrive - Danmarks Tekniske Universitet/DTU/41934 - Advanced BIM/IFC/CES_BLD_24_06_STR.ifc')
+model = ifcopenshell.open(model_path)
 
 # Function to find property value by name
 def get_property_value(property_set, property_name):
