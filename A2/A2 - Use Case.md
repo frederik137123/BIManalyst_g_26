@@ -16,7 +16,7 @@ As explained in section A2b, our goal is to create a script that can automatical
 The data required includes details about the dimensions and quantity of the structural elements, which are essential for both checking compliance and estimating costs during the design phase.
 
 ## A2d - Scope the use case:
-
+BPMN and SVG files
 
 ## A2e - Tool idea:
 In summary, the primary goal of our scripts is to derive an estimated cost for the structural elements of the building. By automating this process, we aim to provide crucial information that will be highly beneficial during the design phase.
