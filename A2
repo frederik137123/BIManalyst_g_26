@@ -6,3 +6,15 @@ Our groups Pyhton level is about 2-3 (Neutral/Agree)
 Our groups focus area is the sturctural (STR) aspect of the building, and we are analysts.
 
 ## A2b - Identify claim:
+We have chosen building #XXXX
+
+The group has decided to inspect the structural elements of the building. The first step is to gather data from the IFC regarding the number of beams, columns, and slabs throughout the structure. After this, we'll verify that the dimensions of these elements match those specified in the STR report.
+Finally, we plan to make a cost estimate for the building's structural components.
+
+## A2c - Use Case:
+As explained in section A2b, our goal is to create a script that can automatically collect this data for us. This information must be verified during the design phase to ensure the structural elements are agreed upon. Additionally, it will allow contractors and other stakeholders to provide an estimated project cost.
+The data required includes details about the dimensions and quantity of the structural elements, which are essential for both checking compliance and estimating costs during the design phase.
+
+Insert diagram
+
+## A2d - Scope the use case
