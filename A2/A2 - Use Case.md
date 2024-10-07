@@ -6,7 +6,7 @@ Our groups Pyhton level is about 2-3 (Neutral/Agree)
 Our groups focus area is the sturctural (STR) aspect of the building, and we are analysts.
 
 ## A2b - Identify claim:
-We have chosen building #XXXX
+We have chosen building #2406
 
 The group has decided to inspect the structural elements of the building. The first step is to gather data from the IFC regarding the number of beams, columns, walls and slabs throughout the structure. After this, we'll verify that the dimensions of these elements match those specified in the STR report.
 Finally, we plan to make a cost estimate for the building's structural components.
