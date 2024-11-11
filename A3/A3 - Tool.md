@@ -14,5 +14,5 @@ This has been achieved by dividing the Python script into two separate scripts:
 ### A3_STR_GR26_1 - Defining all elements
 The first script defines all the elements in the model. It calculates the length of all beams in the IFC model, as well as the volumes of columns, slabs, and walls, along with the quantity of each type.
 Once the code has been executed, the script generates an Excel file with all the structural elements listed in separate sheets. After running the code, the output will be an Excel file that looks like this:
-
+![Alt text](Excel1.jpg)
 
