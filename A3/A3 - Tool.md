@@ -20,5 +20,5 @@ Once the code has been executed, the script generates an Excel file with all the
 Now that all the structural elements have been defined and inserted into the Excel sheets, the overall cost can be calculated. At this stage, the project manager needs to input the costs for each element. In this script, the cost of beams is estimated per length, while the other elements are estimated per volume. This is, of course, adjustable, but for this example, we used this method, assuming the beams are predefined and only the length is required. For slabs, this approach may also apply in some projects, and it can be modified in the script accordingly.
 
 The prices need to be inserted into the Excel file, after which the file should be saved. It will then look like this:
-
+![Alt text](Excel2.jpg)
 
