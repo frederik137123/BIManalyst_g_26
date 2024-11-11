@@ -22,3 +22,12 @@ Now that all the structural elements have been defined and inserted into the Exc
 The prices need to be inserted into the Excel file, after which the file should be saved. It will then look like this:
 ![Alt text](Excel2.jpg)
 
+This, of course, has to be done for alle structural elements.
+
+### A3_STR_GR26_2 - Price estimation
+Now, we use the previously saved Excel sheet with all the structural elements and their prices to estimate the overall cost for all the structural elements.
+
+Histograms are created for each structural component to visualize the quantity of each type within the different structural elements. Additionally, a chart is generated on the overview sheet to show the distribution of costs for each element. This has been done to provide a clear overview of the costs and their distribution.
+
+At the end the user should have an Excel file, where the "Overview sheet" shoud look like this:
+![Alt text](Excel3.jpg)
